@@ -21,7 +21,6 @@ namespace If_Formative_1
             InitializeComponent();
             signOutputLabel.Visible = false;
             divideOutputLabel.Visible = false;
-
         }
 
         private void enterButton_Click(object sender, EventArgs e)
